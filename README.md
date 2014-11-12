@@ -1,0 +1,1 @@
+Illusiat XI: Reborn is a remake, or as we like to call it, reinterpretation, of DJ Omnimaga's 2002 BASIC ASCII RPG Illusiat Eleven. This reinterpretation, written using the Axe Parser language will feature revamped maps, improved storyline (with input from the original author) as well as 16x16 4-level grayscale graphics.
